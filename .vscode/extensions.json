@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "rescript-lang.rescript",
+    "reasonml.reason-vscode",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next"  // If you're using TypeScript
+  ]
+}
