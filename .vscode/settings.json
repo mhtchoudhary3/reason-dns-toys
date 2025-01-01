@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true, // Ensures Prettier runs only if a config is present
+    "files.autoSave": "onWindowChange",
+    "javascript.format.enable": false, // Disable default JS formatter if you're using Prettier
+    "reason.enable": true, // Enable ReasonML support (if you're using Reason extension)
+    "eslint.alwaysShowStatus": true, // If you're using ESLint for JS/TS linting
+    "editor.tabSize": 2, // Common setting for many languages
+    "editor.insertSpaces": true
+  }
+  
